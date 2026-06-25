@@ -1,0 +1,6 @@
+{
+  "name": "AI PDF Reader",
+  "description": "A modern, professional PDF Book Reader integrated with an intelligent Gemini-powered reading assistant, visual progress tracking, and text-to-speech audio companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
